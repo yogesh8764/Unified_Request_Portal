@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_portal_device_request</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 06:32:56</sys_created_on>
+        <sys_id>b42f8b0f9f1102107f4447e0b824ab49</sys_id>
+        <sys_name>x_snc_portal_device_request</sys_name>
+        <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+        <sys_update_name>ua_table_licensing_config_b42f8b0f9f1102107f4447e0b824ab49</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>
