@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 10:21:41</sys_created_on>
+        <sys_id>0873049f9fd102107f4447e0b824ab76</sys_id>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0873049f9fd102107f4447e0b824ab76</sys_update_name>
+        <table>x_snc_portal_device_request</table>
+        <ui_policy display_value="Quatity &gt; 2, justification is mandatory">e523cc5f9fd102107f4447e0b824abe5</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
