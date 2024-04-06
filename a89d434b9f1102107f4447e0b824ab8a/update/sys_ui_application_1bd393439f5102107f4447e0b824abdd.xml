@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Portal</name>
+        <order/>
+        <roles>x_snc_portal.device management,x_snc_portal.dispatch management,x_snc_portal.release mangement,x_snc_portal.end user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 06:53:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1bd393439f5102107f4447e0b824abdd</sys_id>
+        <sys_name>Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+        <sys_update_name>sys_ui_application_1bd393439f5102107f4447e0b824abdd</sys_update_name>
+    </sys_ui_application>
+</record_update>

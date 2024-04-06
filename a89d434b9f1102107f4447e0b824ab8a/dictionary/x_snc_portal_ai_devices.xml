@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8cc39f4f9f1102107f4447e0b824ab32" extends="cmdb_ci" label="AI Devices" max_length="40" name="x_snc_portal_ai_devices" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Device Category" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Safety Drone" sequence="0" value="safety drone"/>
+                <element inactive_on_update="false" label="AR Glasses" sequence="1" value="ar glasses"/>
+                <element inactive_on_update="false" label="Smart Hats" sequence="2" value="smart hats"/>
+                <element inactive_on_update="false" label="Environmental Sensors" sequence="3" value="environmental sensors"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_2" type="price"/>
+    </element>
+</database>
