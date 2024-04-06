@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e82f8b0f9f1102107f4447e0b824ab37" extends="task" label="Device Request" max_length="40" name="x_snc_portal_device_request" type="collection"/>
+    <element db_object_id="e82f8b0f9f1102107f4447e0b824ab37" extends="task" label="Device Request" max_length="40" name="x_snc_portal_device_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_glide_date_6" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Warranty Expire" max_length="40" name="u_glide_date_7" type="glide_date"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_6" type="price"/>
+        <element attributes="encode_utf8=false" label="Device Name" mandatory="true" max_length="32" name="u_reference_1" reference="x_snc_portal_ai_devices" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requester Name" mandatory="true" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requester Name" mandatory="true" max_length="32" name="u_reference_3" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Quantity" mandatory="true" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Modal" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Device Description" max_length="500" name="u_string_5" type="string"/>
+    </element>
 </database>

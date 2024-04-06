@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Device Details" section_id="a3ea6bc79f9102107f4447e0b824abf4" sys_domain="global" table="x_snc_portal_device_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 08:34:25</sys_created_on>
+            <sys_id>98faebc79f9102107f4447e0b824ab71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_snc_portal_device_request" sys_domain="global" view="Default view">a3ea6bc79f9102107f4447e0b824abf4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 08:34:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_price_6</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 08:34:25</sys_created_on>
+            <sys_id>1cfaebc79f9102107f4447e0b824ab71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_snc_portal_device_request" sys_domain="global" view="Default view">a3ea6bc79f9102107f4447e0b824abf4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 08:34:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 08:34:25</sys_created_on>
+            <sys_id>9cfaebc79f9102107f4447e0b824ab71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_snc_portal_device_request" sys_domain="global" view="Default view">a3ea6bc79f9102107f4447e0b824abf4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 08:34:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 08:34:25</sys_created_on>
+            <sys_id>10faebc79f9102107f4447e0b824ab72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_snc_portal_device_request" sys_domain="global" view="Default view">a3ea6bc79f9102107f4447e0b824abf4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 08:34:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_7</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 08:34:25</sys_created_on>
+            <sys_id>90faebc79f9102107f4447e0b824ab72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_snc_portal_device_request" sys_domain="global" view="Default view">a3ea6bc79f9102107f4447e0b824abf4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 08:34:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Device Details</caption>
+            <header>false</header>
+            <name>x_snc_portal_device_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 08:34:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3ea6bc79f9102107f4447e0b824abf4</sys_id>
+            <sys_name>x_snc_portal_device_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+            <sys_update_name>sys_ui_section_a3ea6bc79f9102107f4447e0b824abf4</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

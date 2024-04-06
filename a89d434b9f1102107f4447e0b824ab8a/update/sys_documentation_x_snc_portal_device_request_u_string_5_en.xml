@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_5" label="Device Description" language="en" table="x_snc_portal_device_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <help/>
+            <hint/>
+            <label>Device Description</label>
+            <language>en</language>
+            <name>x_snc_portal_device_request</name>
+            <plural>Device Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 08:08:40</sys_created_on>
+            <sys_name>Device Description</sys_name>
+            <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_portal_device_request_u_string_5_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
