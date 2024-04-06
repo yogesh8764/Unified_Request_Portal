@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>cb7867479f9102107f4447e0b824ab3a</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>c1b008db9fd102107f4447e0b824ab5b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_reference_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>837867479f9102107f4447e0b824ab3b</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>89b008db9fd102107f4447e0b824ab5b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_reference_2</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>077867479f9102107f4447e0b824ab3b</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>0db008db9fd102107f4447e0b824ab5b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>company</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>877867479f9102107f4447e0b824ab3b</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>8db008db9fd102107f4447e0b824ab5b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>0b7867479f9102107f4447e0b824ab3b</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>01b008db9fd102107f4447e0b824ab5c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_string_3</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>8b7867479f9102107f4447e0b824ab3b</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>81b008db9fd102107f4447e0b824ab5c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,41 +88,55 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>0f7867479f9102107f4447e0b824ab3b</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>05b008db9fd102107f4447e0b824ab5c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_6</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>85b008db9fd102107f4447e0b824ab5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>8f7867479f9102107f4447e0b824ab3b</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>09b008db9fd102107f4447e0b824ab5c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-06 08:23:41</sys_created_on>
-            <sys_id>037867479f9102107f4447e0b824ab3c</sys_id>
+            <sys_created_on>2024-04-06 10:09:30</sys_created_on>
+            <sys_id>89b008db9fd102107f4447e0b824ab5c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_portal_device_request" sys_domain="global" view="Default view">9e76d7439f5102107f4447e0b824ab3d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-06 08:23:41</sys_updated_on>
+            <sys_updated_on>2024-04-06 10:09:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
