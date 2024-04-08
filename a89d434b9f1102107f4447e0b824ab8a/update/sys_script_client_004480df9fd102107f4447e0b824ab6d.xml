@@ -11,9 +11,11 @@
         <name>Section Hide before Device Details</name>
         <order/>
         <script><![CDATA[function onLoad() {
-   //Type appropriate comment here, and begin script below
-   g_form.setSectionDisplay('device_details',false);
+  if(g_form.getValue(u_reference_1=='')){
+	g_form.setSectionDisplay('device_details',false);
    g_form.setSectionDisplay('delievery_details',false);
+}
+  
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
