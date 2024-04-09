@@ -8,30 +8,30 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>All</mobile_title>
+        <mobile_title>Upload New Device</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_snc_portal_device_request</name>
-        <order>6</order>
+        <name>x_snc_portal_ai_devices</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_snc_portal.device management,x_snc_portal.release mangement,x_snc_portal.dispatch management</roles>
+        <roles>x_snc_portal.device management</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-04-06 06:33:21</sys_created_on>
+        <sys_created_on>2024-04-09 17:29:58</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>fe3f0f0f9f1102107f4447e0b824ab11</sys_id>
-        <sys_name> All Device Request</sys_name>
+        <sys_id>13d101509fe102107f4447e0b824abc0</sys_id>
+        <sys_name>Upload New Device</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
-        <sys_update_name>sys_app_module_fe3f0f0f9f1102107f4447e0b824ab11</sys_update_name>
+        <sys_update_name>sys_app_module_13d101509fe102107f4447e0b824abc0</sys_update_name>
         <timeline_page/>
-        <title> All Device Request</title>
+        <title>Upload New Device</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
