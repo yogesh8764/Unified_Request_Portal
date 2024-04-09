@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 06:53:38</sys_created_on>
+        <sys_id>ffd3d3439f5102107f4447e0b824ab12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_portal_ai_devices.x_snc_portal.ai_devices_user</sys_name>
+        <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+        <sys_security_acl display_value="x_snc_portal_ai_devices">f7d3d3439f5102107f4447e0b824ab10</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ffd3d3439f5102107f4447e0b824ab12</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 06:53:38</sys_updated_on>
+        <sys_user_role display_value="x_snc_portal.ai_devices_user" name="x_snc_portal.ai_devices_user">5bd31f0f9f1102107f4447e0b824abe8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</application>
+        <file_path/>
+        <instance_id>ea7b3d26879dc6142e4dba26dabb35a4</instance_id>
+        <instance_name>nowlearning-nlinst01614915-0001</instance_name>
+        <name>sys_security_acl_role_ffd3d3439f5102107f4447e0b824ab12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-06 06:53:38</sys_created_on><sys_id>ffd3d3439f5102107f4447e0b824ab12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_portal_ai_devices.x_snc_portal.ai_devices_user</sys_name><sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package><sys_policy/><sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope><sys_security_acl display_value="x_snc_portal_ai_devices">f7d3d3439f5102107f4447e0b824ab10</sys_security_acl><sys_update_name>sys_security_acl_role_ffd3d3439f5102107f4447e0b824ab12</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-06 06:53:38</sys_updated_on><sys_user_role display_value="x_snc_portal.ai_devices_user" name="x_snc_portal.ai_devices_user">5bd31f0f9f1102107f4447e0b824abe8</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2116065925</payload_hash>
+        <record_name>x_snc_portal_ai_devices.x_snc_portal.ai_devices_user</record_name>
+        <reverted_from/>
+        <source>86519f4f9f1102107f4447e0b824ab8a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-06 06:53:38</sys_created_on>
+        <sys_id>73d3d3439f5102107f4447e0b824ab15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eb22f25d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-06 06:53:38</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>bbd3d34351510210668a120f46994b14</update_guid>
+        <update_guid_history>bbd3d34351510210668a120f46994b14:-2116065925</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_portal_ai_devices.x_snc_portal.ai_devices_user">1d4cd4d09fa102107f4447e0b824abad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-09 14:43:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>70c44fe09c43411984ecd48ec446c3f1</sys_id>
+        <sys_metadata>ffd3d3439f5102107f4447e0b824ab12</sys_metadata>
+        <sys_name>x_snc_portal_ai_devices.x_snc_portal.ai_devices_user</sys_name>
+        <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+        <sys_parent display_value="x_snc_portal_ai_devices">f7d3d3439f5102107f4447e0b824ab10</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+        <sys_scope_delete display_value="">00f269d050454949bb165205b8cd66d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ffd3d3439f5102107f4447e0b824ab12</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ffd3d3439f5102107f4447e0b824ab12">73d3d3439f5102107f4447e0b824ab15</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
