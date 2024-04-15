@@ -56,7 +56,9 @@
         <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_portal_ai_devices_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_portal_ai_devices_NULL</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 12:27:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

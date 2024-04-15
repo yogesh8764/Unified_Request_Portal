@@ -42,13 +42,14 @@
         <update_guid_history>3bd3d34350510210950f181f0688220f:1210179588</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_portal_ai_devices.x_snc_portal.ai_devices_user">f71c58509fa102107f4447e0b824ab52</sys_audit_delete>
+        <sys_audit_delete display_value="">f71c58509fa102107f4447e0b824ab52</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-04-09 14:43:13</sys_created_on>
         <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
         <sys_id>105b7d51586849ce8e1ba757847ad644</sys_id>
         <sys_metadata>37d3d3439f5102107f4447e0b824ab0d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_portal_ai_devices.x_snc_portal.ai_devices_user</sys_name>
         <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
         <sys_parent display_value="x_snc_portal_ai_devices">6fd3d3439f5102107f4447e0b824ab09</sys_parent>
@@ -57,5 +58,7 @@
         <sys_scope_delete display_value="">00f269d050454949bb165205b8cd66d9</sys_scope_delete>
         <sys_update_name>sys_security_acl_role_37d3d3439f5102107f4447e0b824ab0d</sys_update_name>
         <sys_update_version display_value="sys_security_acl_role_37d3d3439f5102107f4447e0b824ab0d">ffd3d3439f5102107f4447e0b824ab0f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 12:27:38</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

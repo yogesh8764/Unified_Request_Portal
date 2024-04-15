@@ -23,12 +23,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>004480df9fd102107f4447e0b824ab6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Section Hide before Device Details</sys_name>
         <sys_overrides/>
         <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
         <sys_update_name>sys_script_client_004480df9fd102107f4447e0b824ab6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 12:27:31</sys_updated_on>
         <table>x_snc_portal_device_request</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

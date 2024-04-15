@@ -52,6 +52,8 @@
         <sys_policy/>
         <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_portal_device_request_u_price_6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 12:27:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

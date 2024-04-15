@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Order AI Devices">b91e3eced96102107f441fc901dfbe50</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 13:02:37</sys_created_on>
+        <sys_id>bcae3602d9a102107f441fc901dfbeb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Order AI Devices</sys_name>
+        <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_bcae3602d9a102107f441fc901dfbeb9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 13:02:37</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</application>
+        <file_path/>
+        <instance_id>8bfaa38687d10a541059851d0ebb3554</instance_id>
+        <instance_name>nowlearning-nlinst01610688-test-0001</instance_name>
+        <name>sc_cat_item_catalog_bcae3602d9a102107f441fc901dfbeb9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Order AI Devices">b91e3eced96102107f441fc901dfbe50</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-15 13:02:37</sys_created_on><sys_id>bcae3602d9a102107f441fc901dfbeb9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Order AI Devices</sys_name><sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package><sys_policy/><sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope><sys_update_name>sc_cat_item_catalog_bcae3602d9a102107f441fc901dfbeb9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-15 13:02:37</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1233501464</payload_hash>
+        <record_name>Service Catalog.Order AI Devices</record_name>
+        <reverted_from/>
+        <source>d1e65fc6d9e102107f441fc901dfbe5e</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-15 14:48:36</sys_created_on>
+        <sys_id>55e65fc6d9e102107f441fc901dfbe65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ee23b3cde0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-15 14:48:36</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d9e65fc61be10210756bbafff8f74064</update_guid>
+        <update_guid_history>d9e65fc61be10210756bbafff8f74064:-1233501464,78ae36025ca1021015f603395a39c8bc:152426996</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Order AI Devices">ade65fc6d9e102107f441fc901dfbe6d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-15 14:48:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>39c22e15996441709124d0b7f51fc900</sys_id>
+        <sys_metadata>bcae3602d9a102107f441fc901dfbeb9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Order AI Devices</sys_name>
+        <sys_package display_value="Portal" source="x_snc_portal">a89d434b9f1102107f4447e0b824ab8a</sys_package>
+        <sys_parent display_value="Order AI Devices">b91e3eced96102107f441fc901dfbe50</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Portal">a89d434b9f1102107f4447e0b824ab8a</sys_scope>
+        <sys_scope_delete display_value="">00f269d050454949bb165205b8cd66d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_bcae3602d9a102107f441fc901dfbeb9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_bcae3602d9a102107f441fc901dfbeb9">55e65fc6d9e102107f441fc901dfbe65</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-15 14:48:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
